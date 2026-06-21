@@ -1,11 +1,14 @@
 {
-    "name": "rainForest",
+    "name": "rainForest-solarDuoTone",
     "description": "Rain/Kettu reimagining of everforest by myumichi",
     "authors": [
         {
             "name": "soapkid",
             "id": "255857537067253760"
         }
+	    {
+		    "name":"jdmann6",
+			"id":"554042298053427211"
     ],
     "semanticColors": {
         "ANDROID_NAVIGATION_SCRIM_BACKGROUND": [
