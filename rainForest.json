@@ -85,8 +85,6 @@
     "background": {
         "url": "https://raw.githubusercontent.com/soap-kid/rainForest/refs/heads/test/everforest%20blur.png",
         "alpha": 1,
-        "size": "cover",
-        "position": "center"
     },
 	"fonts": {
 		"ABCGintoNord-ExtraBold": "https://github.com/soap-kid/rainForest/blob/test/fonts/sraben-grotesk.bold.ttf?raw=1",
