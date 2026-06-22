@@ -1,0 +1,111 @@
+{
+    "name": "<name here>",
+    "description": "<desc here>",
+    "authors": [
+        {
+            "name": "<discord handle here>",
+            "id": "<user id here>"
+        }
+    ],
+    "semanticColors": {
+        "ANDROID_NAVIGATION_SCRIM_BACKGROUND": [
+            "<hex>"
+        ],
+        "BACKGROUND_MOD_MUTED": [
+            "<hex>"
+        ],
+		"PANEL_BG": [
+			"<hex>"
+		],
+        "BACKGROUND_SURFACE_RAISED": [
+            "<hex>"
+        ],
+		"BACKGROUND_BRAND": [
+			"<hex>"
+		],
+        "REDESIGN_CHAT_INPUT_BACKGROUND": [
+            "<hex>"
+        ],
+		"INPUT_BACKGROUND_DEFAULT": [
+			"<hex>"
+		],
+        "INTERACTIVE_TEXT_DEFAULT": [
+            "<hex>"
+        ],
+		"EMBED_BACKGROUND": [
+			"<hex>"
+		],
+		"REDESIGN_BUTTON_TERTIARY_BACKGROUND": [
+			"<hex>"
+		]
+    },
+    "rawColors": {
+        "PRIMARY_500": "<hex>",
+        "PRIMARY_100": "<hex>",
+        "PRIMARY_200": "<hex>",
+        "PRIMARY_300": "<hex>",
+        "PRIMARY_360": "<hex>",
+        "PRIMARY_400": "<hex>",
+        "PRIMARY_600": "<hex>",
+        "PRIMARY_630": "<hex>",
+        "PRIMARY_660": "<hex>",
+        "PRIMARY_700": "<hex>",
+        "PRIMARY_800": "<hex>",
+        "BLACK_500": "<hex>",
+        "BRAND_260": "<hex>",
+        "BRAND_360": "<hex>",
+		"BRAND_500": "<hex>",
+        "BRAND_560": "<hex>",
+        "YELLOW_300": "<hex>",
+        "GREEN_600": "<hex>",
+        "RED_400": "<hex>",
+        "WHITE_500": "<hex>",
+        "GREEN_360": "<hex>",
+		"BLUE_345": "<hex>",
+		"PLUM_24": "<hex>",
+        "PLUM_23": "<hex>",
+		"PLUM_22": "<hex>",
+        "PLUM_20": "<hex>",
+		"PLUM_19": "<hex>",
+        "PLUM_18": "<hex>",
+        "PLUM_17": "<hex>",
+        "PLUM_16": "<hex>",
+        "PLUM_15": "<hex>",
+        "PLUM_13": "<hex>",
+        "PLUM_10": "<hex>",
+        "PLUM_3": "<hex>",
+        "PLUM_9": "<hex>",
+		"PLUM_6": "<hex>",
+		"PLUM_1": "<hex>"
+    },
+    "background": {
+        "url": "<img>",
+        "alpha": 1,
+    },
+	"fonts": {
+		"ABCGintoNord-ExtraBold": "<font>",
+		"ggsans-Bold": "<font>",
+		"ggsans-BoldItalic": "<font>",
+		"ggsans-ExtraBold": "<font>",
+		"ggsans-ExtraBoldItalic": "<font>",
+		"ggsans-Medium": "<font>",
+		"ggsans-MediumItalic": "<font>",
+		"ggsans-Normal": "<font>",
+		"ggsans-NormalItalic": "<font>",
+		"ggsans-Semibold": "<font>",
+		"ggsans-SemiboldItalic": "<font>",
+		"NotoSans-Bold": "<font>",
+		"NotoSans-ExtraBold": "<font>",
+		"NotoSans-Medium": "<font>",
+		"NotoSans-Normal": "<font>",
+		"NotoSans-NormalItalic": "<font>",
+		"NotoSans-Semibold": "<font>",
+		"SourceCodePro-Semibold": "<font>",
+	  	"ggmono-Normal": "<font>"
+	},
+	"plus": {
+    "version": "0",
+    "iconpack": "<iconpack>"
+},
+    "spec": 2
+}
